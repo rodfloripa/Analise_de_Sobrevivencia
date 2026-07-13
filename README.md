@@ -23,6 +23,10 @@
 
 <p align="justify"><h3>3. Resultados e Observações</h3></p>
 
+<p align="center">
+  <img src="https://github.com/rodfloripa/Analise_de_Sobrevivencia/blob/main/fig1.png">
+</p>
+
 <p align="justify">A análise conduzida no código revelou que o comportamento de <i>churn</i> no dataset Telco é relativamente linear. Foi observado que:</p>
 
 * <p align="justify"><b>Curvas de Sobrevivência:</b> Clientes com maior tempo de casa (<i>tenure</i>) e contas mais altas tendem a apresentar uma probabilidade de sobrevivência significativamente maior, indicando que o valor da conta pode estar atrelado a pacotes de serviços que geram maior fidelidade (como combos).</p>
